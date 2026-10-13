@@ -114,7 +114,7 @@ Next time, type `/setup` and it will pick up from the VS Code question.
 <!-- transcript-session: 0c2f4f76-1509-4243-b08d-0369441cb5e7 | 2026-10-12T23:50:36.224Z -->
 ## Session `0c2f4f76` — 2026-10-12 23:50:36
 
-*21 user turns. Tool outputs and reasoning omitted.*
+*24 user turns. Tool outputs and reasoning omitted.*
 
 **User:**
 *(ran `/setup`)*
@@ -403,5 +403,50 @@ Dino Li
 **Claude:**
 - 🔧 `Edit` — /Users/dinoli/Desktop/COMP440/Homework/comp440-hw2/WRITEUP.md
 - 🔧 `Bash` — Dump transcript and commit name and date
+- 🔧 `Bash` — Start the evaluation viewer in the background
+- 🔧 `Bash` — Check viewer startup output
+I wrote your name and the date at the top of `WRITEUP.md`:
+
+```
+**Name:** Dino Li
+**Date:** October 12, 2026
+```
+
+I ran `python3 dump_transcript.py`, then committed it as `Name and date`.
+
+I also started the evaluation viewer in the background (`python3 evals/app/serve.py --open`). It's a local web page at `localhost:8440` where you'll look at graded answers later.
+
+Did the viewer open in your browser?
+
+**User:**
+yes but it says evaluation runs
+
+**Claude:**
+That's right. The viewer's home page lists your evaluation runs. A run is one batch of a model's answers plus their grades. It's empty for now because you'll make your first run in Part 1.
+
+Last answer for Part 0, **Step D**. You've now seen it work. How do you think the MCP server connects Claude Code on your laptop to the notebook on Google's computer? Name the pieces and the path between them, as best you can guess.
+
+**User:**
+There's three parts in this operation, claude, vscode, and google scratchpad. I think VScode is the MCP host and it retrieve tool boxs from the server Claude and runs commands to google scratchpad , which is the MCP client.
+
+**Claude:**
+- 🔧 `Edit` — /Users/dinoli/Desktop/COMP440/Homework/comp440-hw2/WRITEUP.md
+I typed your answer in word for word. The Step D slot now reads:
+
+> There's three parts in this operation, claude, vscode, and google scratchpad. I think VScode is the MCP host and it retrieve tool boxs from the server Claude and runs commands to google scratchpad , which is the MCP client.
+
+A tidied version, with only the grammar changed:
+
+> There are three parts in this operation: Claude, VS Code and the Google scratchpad. I think VS Code is the MCP host, and it retrieves toolboxes from the server, Claude, and runs commands on the Google scratchpad, which is the MCP client.
+
+Should I use the tidied version, or keep yours as it is?
+
+**User:**
+use the tidied version
+
+**Claude:**
+- 🔧 `Edit` — /Users/dinoli/Desktop/COMP440/Homework/comp440-hw2/WRITEUP.md
+I switched it to the tidied version. Every Part 0 slot is now filled. Next I'll run the checkpoint for Part 0.
+- 🔧 `Skill` — checkpoint
 
 <!-- end-session: 0c2f4f76-1509-4243-b08d-0369441cb5e7 -->
