@@ -22,7 +22,9 @@ and the MCP server is so much easier and you can call on changes directly.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
-XXXX
+There are three parts in this operation: Claude, VS Code and the Google scratchpad. I think VS
+Code is the MCP host, and it retrieves toolboxes from the server, Claude, and executes commands
+with tools on the Google scratchpad, which is the MCP client.
 
 ## Part 1: The tools and the tests
 
