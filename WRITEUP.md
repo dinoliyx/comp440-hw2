@@ -1,7 +1,7 @@
 # COMP 440 HW2: Whose Preferences Count?
 
-**Name:** XXXX
-**Date:** XXXX
+**Name:** Dino Li
+**Date:** October 12, 2026
 
 ## Part 0: Set up
 
@@ -12,11 +12,13 @@ the MCP server. An LLM is also involved, but only as a chatbox that outputs text
 retrieve tools from the MCP server. The LLM outputs text that picks the appropriate tool for the
 command and sends it to the MCP host. The MCP host then calls the tool and has the server execute
 the command. This is useful because it lets the user execute commands and tasks from a chat with
-an LLM. Another example of MCP is VS Code.
+an LLM. Another example of MCP is VS Code. VS Code itself is the MCP host/client and it can
+connect to an MCP server to fetch tools and data.
 
 ### Step B: Why not paste code into Colab yourself
 
-XXXX
+Because pasting code into Colab yourself involves many steps and human effort whereas using Claude
+and the MCP server is so much easier and you can call on changes directly.
 
 ### Step D: How the MCP server connects Claude Code to Colab
 
