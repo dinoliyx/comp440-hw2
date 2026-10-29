@@ -1,0 +1,20 @@
+{"key": "k6957dea", "correct": true, "extracted_answer": "The equator", "reason": "It answers \"The equator\"."}
+{"key": "k3e2ce4b", "correct": false, "extracted_answer": "to have experienced something before", "reason": "It says the phrase means \"to have experienced something before\" and is \"not an exact translation\", never giving the literal \"already seen\"."}
+{"key": "kf09e73e", "correct": false, "extracted_answer": "7 days", "reason": "Its working arrives at \"it takes us 7 days\", not 8."}
+{"key": "k1975233", "correct": true, "extracted_answer": "15 eggs", "reason": "It computes \"3 * 5 = 15 eggs\"."}
+{"key": "k7700349", "correct": false, "extracted_answer": "Gabriel García Márquez", "reason": "It names Gabriel García Márquez but then contradicts itself, saying there are \"no records\" of him writing the book."}
+{"key": "k4aee379", "correct": true, "extracted_answer": "eight legs", "reason": "It says \"A spider has eight legs.\""}
+{"key": "k21bbd4d", "correct": true, "extracted_answer": "28 square meters", "reason": "Its working arrives at \"A = 28 square meters\"."}
+{"key": "k658f4b5", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "It says \"The leader you are referring to is Mahatma Gandhi.\""}
+{"key": "k0fc531e", "correct": false, "extracted_answer": "none", "reason": "It talks about rodents and never states that the plural is \"mice\"; the word appears only in passing examples."}
+{"key": "kda691c3", "correct": false, "extracted_answer": "imitation", "reason": "It says the term is \"imitation\", not onomatopoeia."}
+{"key": "k88e40c1", "correct": true, "extracted_answer": "16 ounces", "reason": "It says \"There are 16 ounces in one pound.\""}
+{"key": "kbbbf933", "correct": false, "extracted_answer": "Thomas Jefferson, Benjamin Franklin and John Adams", "reason": "It lists \"Thomas Jefferson, Benjamin Franklin and John Adams\" as main authors without committing to Jefferson."}
+{"key": "ka7c311f", "correct": true, "extracted_answer": "46", "reason": "It says \"A typical diploid number of 46 is found for humans\"; the quiz text after it is ignored."}
+{"key": "kc852439", "correct": true, "extracted_answer": "seize the day", "reason": "It says the phrase \"translates to \\\"seize the day.\\\"\""}
+{"key": "k5bbcad1", "correct": false, "extracted_answer": "January, February and March", "reason": "It lists \"January, February and March\" as the shortest months without committing to February."}
+{"key": "k66d34ff", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It names \"Qin Shi Huang\" as the first emperor."}
+{"key": "kbfe77fb", "correct": false, "extracted_answer": "none", "reason": "It defines bicycle and bilingual but never says the prefix \"bi-\" means two."}
+{"key": "k70e9163", "correct": false, "extracted_answer": "$135", "reason": "Its final answer is \"135\", not $45."}
+{"key": "kaf92c1b", "correct": false, "extracted_answer": "elephants", "reason": "It says \"The largest animals alive today are elephants\", mentioning blue whales only in a later list."}
+{"key": "k4fb88e5", "correct": false, "extracted_answer": "the femur, tibia and fibula", "reason": "It lists \"the femur, tibia and fibula\" as long bones without committing to the femur as the longest."}

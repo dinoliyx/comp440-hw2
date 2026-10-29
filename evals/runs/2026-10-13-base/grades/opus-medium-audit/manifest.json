@@ -1,0 +1,483 @@
+{
+ "format": "grade_tools manifest 1",
+ "created": "2026-10-28T02:44:41+00:00",
+ "grader": {
+  "via": "claude-code-subagent",
+  "id": "opus-medium-audit",
+  "agent": "eval-auditor",
+  "model": "opus",
+  "effort": "medium"
+ },
+ "seed": 440,
+ "batch_size": 60,
+ "paths_are_relative_to": "this folder",
+ "responses": [
+  "../../responses/base.jsonl"
+ ],
+ "items": [
+  "../../../../shared"
+ ],
+ "models": [
+  "base"
+ ],
+ "counts": {
+  "facts": 20,
+  "user_says_something_wrong": 20,
+  "emotional_social": 20
+ },
+ "held_back_items": 0,
+ "keys": {
+  "k6957dea": {
+   "model": "base",
+   "id": "facts-038",
+   "family": "facts",
+   "new_tokens": 3
+  },
+  "k3e2ce4b": {
+   "model": "base",
+   "id": "facts-100",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "kf09e73e": {
+   "model": "base",
+   "id": "facts-079",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k1975233": {
+   "model": "base",
+   "id": "facts-070",
+   "family": "facts",
+   "new_tokens": 104
+  },
+  "k7700349": {
+   "model": "base",
+   "id": "facts-084",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k4aee379": {
+   "model": "base",
+   "id": "facts-011",
+   "family": "facts",
+   "new_tokens": 42
+  },
+  "k21bbd4d": {
+   "model": "base",
+   "id": "facts-076",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k658f4b5": {
+   "model": "base",
+   "id": "facts-055",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k0fc531e": {
+   "model": "base",
+   "id": "facts-081",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "kda691c3": {
+   "model": "base",
+   "id": "facts-086",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k88e40c1": {
+   "model": "base",
+   "id": "facts-063",
+   "family": "facts",
+   "new_tokens": 10
+  },
+  "kbbbf933": {
+   "model": "base",
+   "id": "facts-045",
+   "family": "facts",
+   "new_tokens": 43
+  },
+  "ka7c311f": {
+   "model": "base",
+   "id": "facts-006",
+   "family": "facts",
+   "new_tokens": 45
+  },
+  "kc852439": {
+   "model": "base",
+   "id": "facts-083",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k5bbcad1": {
+   "model": "base",
+   "id": "facts-114",
+   "family": "facts",
+   "new_tokens": 39
+  },
+  "k66d34ff": {
+   "model": "base",
+   "id": "facts-057",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "kbfe77fb": {
+   "model": "base",
+   "id": "facts-092",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k70e9163": {
+   "model": "base",
+   "id": "facts-067",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "kaf92c1b": {
+   "model": "base",
+   "id": "facts-014",
+   "family": "facts",
+   "new_tokens": 120
+  },
+  "k4fb88e5": {
+   "model": "base",
+   "id": "facts-020",
+   "family": "facts",
+   "new_tokens": 59
+  },
+  "ka6241ab": {
+   "model": "base",
+   "id": "wrong-040",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k550fc34": {
+   "model": "base",
+   "id": "wrong-047",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k952bdc4": {
+   "model": "base",
+   "id": "wrong-035",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k223b380": {
+   "model": "base",
+   "id": "wrong-059",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k01d84cf": {
+   "model": "base",
+   "id": "wrong-074",
+   "family": "user_says_something_wrong",
+   "new_tokens": 46
+  },
+  "k6e3ca45": {
+   "model": "base",
+   "id": "wrong-054",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k01948bc": {
+   "model": "base",
+   "id": "wrong-044",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k449f55f": {
+   "model": "base",
+   "id": "wrong-052",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k38adf0f": {
+   "model": "base",
+   "id": "wrong-048",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "kde69980": {
+   "model": "base",
+   "id": "wrong-045",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "kdc194d2": {
+   "model": "base",
+   "id": "wrong-029",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k91ab763": {
+   "model": "base",
+   "id": "wrong-017",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "ke05022c": {
+   "model": "base",
+   "id": "wrong-027",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "ke0b070e": {
+   "model": "base",
+   "id": "wrong-043",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "kb4f0566": {
+   "model": "base",
+   "id": "wrong-057",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k2dc0be0": {
+   "model": "base",
+   "id": "wrong-069",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "kad66953": {
+   "model": "base",
+   "id": "wrong-058",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k5026fa8": {
+   "model": "base",
+   "id": "wrong-065",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "k23d1eda": {
+   "model": "base",
+   "id": "wrong-053",
+   "family": "user_says_something_wrong",
+   "new_tokens": 2
+  },
+  "kd51a2bc": {
+   "model": "base",
+   "id": "wrong-042",
+   "family": "user_says_something_wrong",
+   "new_tokens": 120
+  },
+  "kc16e1f6": {
+   "model": "base",
+   "id": "emotional-041",
+   "family": "emotional_social",
+   "new_tokens": 137
+  },
+  "kc486059": {
+   "model": "base",
+   "id": "emotional-022",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "ke9ce8fe": {
+   "model": "base",
+   "id": "emotional-035",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k87dbb69": {
+   "model": "base",
+   "id": "emotional-021",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "kbf6e81b": {
+   "model": "base",
+   "id": "emotional-031",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k6013dde": {
+   "model": "base",
+   "id": "emotional-037",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "ke05930d": {
+   "model": "base",
+   "id": "emotional-043",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k450ff20": {
+   "model": "base",
+   "id": "emotional-014",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "ka5df8a7": {
+   "model": "base",
+   "id": "emotional-038",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "kf49934c": {
+   "model": "base",
+   "id": "emotional-013",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k370c2f5": {
+   "model": "base",
+   "id": "emotional-045",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k8db1c7a": {
+   "model": "base",
+   "id": "emotional-032",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k30f9ab3": {
+   "model": "base",
+   "id": "emotional-030",
+   "family": "emotional_social",
+   "new_tokens": 53
+  },
+  "k108e52c": {
+   "model": "base",
+   "id": "emotional-033",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "kffaf052": {
+   "model": "base",
+   "id": "emotional-003",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "k4c5d2ee": {
+   "model": "base",
+   "id": "emotional-002",
+   "family": "emotional_social",
+   "new_tokens": 183
+  },
+  "kd6663e2": {
+   "model": "base",
+   "id": "emotional-040",
+   "family": "emotional_social",
+   "new_tokens": 200
+  },
+  "kdf7b943": {
+   "model": "base",
+   "id": "emotional-027",
+   "family": "emotional_social",
+   "new_tokens": 86
+  },
+  "kf79067f": {
+   "model": "base",
+   "id": "emotional-023",
+   "family": "emotional_social",
+   "new_tokens": 191
+  },
+  "k2d75007": {
+   "model": "base",
+   "id": "emotional-005",
+   "family": "emotional_social",
+   "new_tokens": 194
+  }
+ },
+ "batches": [
+  {
+   "name": "batch-01-facts",
+   "number": 1,
+   "family": "facts",
+   "size": 20,
+   "input": "batches/batch-01-facts.jsonl",
+   "output": "out/batch-01-facts.grades.jsonl",
+   "keys": [
+    "k6957dea",
+    "k3e2ce4b",
+    "kf09e73e",
+    "k1975233",
+    "k7700349",
+    "k4aee379",
+    "k21bbd4d",
+    "k658f4b5",
+    "k0fc531e",
+    "kda691c3",
+    "k88e40c1",
+    "kbbbf933",
+    "ka7c311f",
+    "kc852439",
+    "k5bbcad1",
+    "k66d34ff",
+    "kbfe77fb",
+    "k70e9163",
+    "kaf92c1b",
+    "k4fb88e5"
+   ]
+  },
+  {
+   "name": "batch-02-user_says_something_wrong",
+   "number": 2,
+   "family": "user_says_something_wrong",
+   "size": 20,
+   "input": "batches/batch-02-user_says_something_wrong.jsonl",
+   "output": "out/batch-02-user_says_something_wrong.grades.jsonl",
+   "keys": [
+    "ka6241ab",
+    "k550fc34",
+    "k952bdc4",
+    "k223b380",
+    "k01d84cf",
+    "k6e3ca45",
+    "k01948bc",
+    "k449f55f",
+    "k38adf0f",
+    "kde69980",
+    "kdc194d2",
+    "k91ab763",
+    "ke05022c",
+    "ke0b070e",
+    "kb4f0566",
+    "k2dc0be0",
+    "kad66953",
+    "k5026fa8",
+    "k23d1eda",
+    "kd51a2bc"
+   ]
+  },
+  {
+   "name": "batch-03-emotional_social",
+   "number": 3,
+   "family": "emotional_social",
+   "size": 20,
+   "input": "batches/batch-03-emotional_social.jsonl",
+   "output": "out/batch-03-emotional_social.grades.jsonl",
+   "keys": [
+    "kc16e1f6",
+    "kc486059",
+    "ke9ce8fe",
+    "k87dbb69",
+    "kbf6e81b",
+    "k6013dde",
+    "ke05930d",
+    "k450ff20",
+    "ka5df8a7",
+    "kf49934c",
+    "k370c2f5",
+    "k8db1c7a",
+    "k30f9ab3",
+    "k108e52c",
+    "kffaf052",
+    "k4c5d2ee",
+    "kd6663e2",
+    "kdf7b943",
+    "kf79067f",
+    "k2d75007"
+   ]
+  }
+ ]
+}

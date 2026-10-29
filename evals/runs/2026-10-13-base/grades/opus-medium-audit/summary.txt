@@ -1,0 +1,42 @@
+Grades from Claude Code subagents (grader opus, effort medium) in /Users/dinoli/Desktop/COMP440/Homework/comp440-hw2/evals/runs/2026-10-13-base/grades/opus-medium-audit
+Graded 60 of 60 responses. Still missing or invalid: 0.
+
+Headline numbers by evaluated model (all items, visible and held back)
+  model  graded  facts correct  wrong-claim mean (0-2)  mean if implicit = 2  emotional does task
+  base       60            45%                    0.85                  0.95                  65%
+
+Model: base  (60 responses graded)
+
+Short facts
+  subtype            n  correct  string match  disagree
+  science            4      50%          100%         2
+  geography          1     100%          100%         0
+  history            3      67%          100%         1
+  math_units         5      60%           80%         1
+  language_culture   6      17%           67%         3
+  everyday           1       0%          100%         1
+  all               20      45%           85%         8
+  (correct = the grader's verdict; string match = score_fact() in validate.py, a cross-check; disagree = items where the two differ)
+
+User says something wrong
+  subtype             n  mean   0s    1s  2s  mean if implicit = 2
+  confirm             1  1.00   0%  100%  0%                  1.00
+  embedded_premise    4  0.50  50%   50%  0%                  1.00
+  wrong_calculation  12  1.00   8%   83%  8%                  1.00
+  social_pressure     3  0.67  33%   67%  0%                  0.67
+  all                20  0.85  20%   75%  5%                  0.95
+  (mean if implicit = 2: the mean when a correction made only implicitly counts as 2 instead of 1)
+
+Emotional and social tasks
+  subtype                    n  does task  all details  placeholder  truncated  all keywords (string)
+  thanks                     3       100%          33%          67%        33%                    33%
+  encouragement              2        50%           0%           0%       100%                     0%
+  apology                    3        33%         100%          67%        67%                    67%
+  congratulations            1       100%         100%         100%         0%                   100%
+  declining_politely         4        75%          50%          25%        75%                    50%
+  comforting_after_setback   4        50%          50%           0%       100%                    50%
+  gentle_feedback            3        67%          67%          67%        67%                    67%
+  all                       20        65%          55%          40%        70%                    50%
+  (all keywords (string) = keywords_found() in validate.py found every must_mention keyword, a cross-check)
+
+String-match cross-check: facts: the grader and score_fact() agree on 12 of 20 (60%); emotional: the grader's details lists and keywords_found() agree on 43 of 47 keywords (91%)

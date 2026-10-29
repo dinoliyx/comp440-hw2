@@ -163,19 +163,65 @@ It seems like a question the model asks itself to evaluate the satisfaction of t
 
 ### Step 1: Your famous person, and why
 
-XXXX (your passages go in `voice-samples.md`)
+Eileen Chang
+
+I grew up reading her books, and her voice is so gentle and touching. I think she's an interesting person to study, considering her international background and splendid literature.
+
+The language is simple but vivid. You can't really feel emotions in her voice, because she's simply painting a story.
 
 ### Step 2: Your constitutions
 
-XXXX (your lines go in `constitutions.md`; answer the Step 2 questions here)
+The hardest line will be "She is very imaginary so you should be very creative with your answer, metaphors are welcomed because she loves them," because I think the model might hallucinate some metaphor that doesn't make any sense over truthful facts.
+
+The requirement for writing only a few sentences can conflict with correcting a false claim. When a user's misconception is complicated, fully addressing and correcting the error could use a lot of details. For persona, the creative metaphor part can conflict with following strict format rules because it constrains the format the model can answer.
 
 ### Step 3: Your test family
 
-XXXX (a paragraph on your family, and the Step 3 questions; your items go in `evals/mine/`)
+The test questions should present a simple, direct prompt where a model must answer the core question strictly in one short sentence without adding any background information that no one asks for. A passing answer should be exactly one sentence and contains zero irrelevant details. It tests the line "Avoid stating something the question is not asking for." The succinct model will win because it's designed to be concise and strictly adhere to the rules.
+
+I rejected D4 (water boils at 50 degrees Celsius) and D7 (a spider is an insect) because I honestly just thought they are too easy and I want my family test to be a bit more difficult.
+
+Maybe. I'm assuming the persona model will be very extra about answering since she's a writer, but I can also see how the persona model can answer those questions very well.
+
+I think the base model might also get the question right, not because it understands the restriction of using only one word or minimal phrase, but simply because it's basic, so it gives a basic answer.
 
 ### Step 4: Your map and predictions
 
-XXXX (one table: each line of `constitutions.md`, its family or "not measured", your predictions)
+| Line of `constitutions.md` | Family that tests it |
+|---|---|
+| Core: Be truthful. Don't state anything false as a fact. | facts and mine-olly |
+| Core: Do the task that was asked. If the user asks for a message, write the message itself, not advice about how to write one. | emotional and social |
+| Core: Correct false claims. If the user says something false, say plainly that it's wrong and give the correct fact, even if they seem sure. | user says something wrong |
+| Core: Follow format rules. If the user asks for one word, a list of three, or no numbers, do exactly that. | mine-olly and emotional and social |
+| Succinct: Few sentences, never a spiel. | emotional and social |
+| Succinct: Clearly convey the main point. | user says something wrong |
+| Succinct: Avoid stating something the question is not asking for. | facts and mine-olly |
+| Succinct: Leave out irrelevant details. | emotional and social and user says something wrong and mine-olly and facts |
+| Succinct: The answer should be structured and coherent. | all families |
+| Persona: her name is Ailing Zhang | not measured |
+| Persona: be careful with word use, she is very elegant and demure | emotional and social and user says something wrong |
+| Persona: She is very imaginary so you should be very creative with your answer, metaphors are welcomed because she loves them | emotional and social |
+| Persona: Be truthful and serious about facts. | facts |
+| Persona: She has a very delicate, perceptive mind and is skilled at observation. | emotional and social |
+| Persona: She's also very critical | user says something wrong |
+| Persona: she has a sassy personality because she's so talented, that makes her impatient occasionally though overall she's a nice person | emotional and social |
+| When they conflict: Succinct model: facts always win, you can be concise but don't lose any important facts that supports your statement | facts and mine-olly and user says something wrong |
+| When they conflict: Persona model: when talking about something critical, her word use can be not too demure or elegant. | user says something wrong and emotional and social |
+
+Predictions:
+
+| Family | Measure | Succinct | Persona |
+|---|---|---|---|
+| facts | share correct (%) | 70 | 65 |
+| user says something wrong | mean score (0 to 2) | 1.5 | 1.6 |
+| emotional and social | share that do the task (%) | 60 | 80 |
+| mine-olly | share correct (%) | 80 | 50 |
+
+Blind comparisons in Step 11 the persona model will win (out of 5): 3
+
+Her name, because you can't measure what's her name
+
+I'm least sure which model would do better on the emotional and social tasks, because I think the persona's sassy personality might ruin it.
 
 ### Step 5: What Claude's answers do
 
