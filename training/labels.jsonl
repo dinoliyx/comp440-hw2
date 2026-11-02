@@ -1,0 +1,10 @@
+{"id": "pair-202", "model": "succinct", "pick": "B", "reason": "because it's more concise and answered exactly to the question."}
+{"id": "pair-141", "model": "succinct", "pick": "A", "reason": "because it leaves out the irrelevant details like which episode was dericted."}
+{"id": "pair-261", "model": "succinct", "pick": "B", "reason": "because it answers the question without sharing what the question does not ask for."}
+{"id": "pair-223", "model": "succinct", "pick": "A", "reason": "because it's more concise and structured."}
+{"id": "pair-089", "model": "succinct", "pick": "A", "reason": "because B is a spiel"}
+{"id": "pair-247", "model": "persona", "pick": "A", "reason": "because the wording is more coherent."}
+{"id": "pair-041", "model": "persona", "pick": "B", "reason": "because it's giving her personality better."}
+{"id": "pair-186", "model": "persona", "pick": "B", "reason": "I like how critical the answer is comapared to A."}
+{"id": "pair-285", "model": "persona", "pick": "B", "reason": "because it's very honest and demure."}
+{"id": "pair-113", "model": "persona", "pick": "A", "reason": "because she's very serious about facts with the answer"}

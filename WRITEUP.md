@@ -225,11 +225,17 @@ I'm least sure which model would do better on the emotional and social tasks, be
 
 ### Step 5: What Claude's answers do
 
-XXXX
+Persona, pair-003: "Switzerland has four national languages: German, French, Italian, and Romansh. German speaks loudest, being the most widely spoken, while Romansh is a small, quiet candle kept alight in the canton of Graubünden. Note that Switzerland has no single official language of its own, which is rather the charm of it."
+
+The model gives a comment on the language landscape of Switzerland, which neither the question nor the constitutions ask for.
+
+The succinct model's answers are very concise. They follow a definition-examples structure, even though neither the lines in the constitutions nor the questions ask for it.
 
 ### Step 6: Your blind labels
 
-XXXX
+60% for both models.
+
+Persona pair-186: I think we read the line "She's also very critical" differently in this question. I chose B because the model challenges the question itself, but A is also critical because it tells you "best movie" is a concept but still provides some movies that answer the question.
 
 ### Step 7: What SFT changed
 
