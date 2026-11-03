@@ -1,0 +1,59 @@
+{"key": "k39d38fa", "correct": true, "extracted_answer": "German", "reason": "It says \"The word comes from German.\""}
+{"key": "kc715088", "correct": false, "extracted_answer": "From afar.", "reason": "\"From afar\" does not say the statement is false."}
+{"key": "kf2144d6", "correct": true, "extracted_answer": "Winston Churchill", "reason": "It opens with \"Winston Churchill.\""}
+{"key": "k73cad35", "correct": true, "extracted_answer": "Homer", "reason": "It opens with \"Homer\"."}
+{"key": "k3349177", "correct": true, "extracted_answer": "16", "reason": "\"There are 16 ounces in a pound.\""}
+{"key": "k434985c", "correct": false, "extracted_answer": "Seven", "reason": "It answers \"Seven\", not 168."}
+{"key": "ke20207c", "correct": true, "extracted_answer": "Tokyo", "reason": "It opens with \"Tokyo.\""}
+{"key": "k8b3af9d", "correct": false, "extracted_answer": "P&P", "reason": "\"P&P\" does not name Jane Austen."}
+{"key": "k2818e17", "correct": false, "extracted_answer": "Ireland", "reason": "It says \"Ireland is the most common answer\", not Italy."}
+{"key": "k7005032", "correct": false, "extracted_answer": "Homophone", "reason": "\"Homophone\" is not onomatopoeia."}
+{"key": "kc1364dc", "correct": true, "extracted_answer": "625", "reason": "Its working ends with 250+375 = 625."}
+{"key": "k889478f", "correct": true, "extracted_answer": "seize the day", "reason": "It translates the phrase as \"seize the day.\""}
+{"key": "k83ccfc6", "correct": true, "extracted_answer": "Six", "reason": "It opens with \"Six.\""}
+{"key": "k6ebdd48", "correct": true, "extracted_answer": "1914", "reason": "\"July 28, 1914.\""}
+{"key": "k11ae899", "correct": true, "extracted_answer": "No", "reason": "\"No\" is an accepted form."}
+{"key": "kb7cfed5", "correct": false, "extracted_answer": "none", "reason": "It never says ohm and describes electric current."}
+{"key": "k01f99c8", "correct": false, "extracted_answer": "Elwha River's cascade", "reason": "It names the Elwha River cascade, not Angel Falls."}
+{"key": "k8fc8ff7", "correct": true, "extracted_answer": "atmospheric pressure", "reason": "It says a barometer \"measures atmospheric pressure.\""}
+{"key": "k575cac4", "correct": false, "extracted_answer": "Jupiter", "reason": "It attributes the rings to Jupiter and mentions Saturn only as an aside."}
+{"key": "k69e5189", "correct": true, "extracted_answer": "The equator", "reason": "It opens with \"The equator.\""}
+{"key": "kcd3c9ec", "correct": true, "extracted_answer": "Sputnik 1", "reason": "It says \"also known as Sputnik 1\"."}
+{"key": "k068c200", "correct": false, "extracted_answer": "Converse", "reason": "\"Converse\" is not antonym."}
+{"key": "k629ea14", "correct": true, "extracted_answer": "nitrogen", "reason": "It says \"mostly of nitrogen (78%)\"."}
+{"key": "k5274d9c", "correct": true, "extracted_answer": "The nucleus", "reason": "It opens with \"The nucleus\"."}
+{"key": "k6adff20", "correct": false, "extracted_answer": "An anagram", "reason": "\"An anagram\" is not onomatopoeia."}
+{"key": "k1a456b6", "correct": true, "extracted_answer": "8 days", "reason": "240/30 = 8 days."}
+{"key": "k085df6f", "correct": false, "extracted_answer": "goes", "reason": "It never gives \"went\" and discusses \"goes\" and \"going\"."}
+{"key": "k85895ff", "correct": false, "extracted_answer": "The white, or albumen", "reason": "It describes the white, not the yolk, as the main answer."}
+{"key": "k2e30f45", "correct": false, "extracted_answer": "The nursery rhyme", "reason": "It says \"nursery rhyme\" and Old English, never German."}
+{"key": "kcb60004", "correct": false, "extracted_answer": "none", "reason": "It says no single answer exists and never names Vatican City."}
+{"key": "k9ddc740", "correct": true, "extracted_answer": "France", "reason": "\"The United States received it from France\"."}
+{"key": "ke927876", "correct": true, "extracted_answer": "The Inca", "reason": "It opens with \"The Inca\"."}
+{"key": "kd5752de", "correct": false, "extracted_answer": "$135", "reason": "Its final answer is 135, not 45."}
+{"key": "kec190c9", "correct": true, "extracted_answer": "13", "reason": "\"The square root of 169 is 13\"."}
+{"key": "k3319017", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It names Scott, not Amundsen."}
+{"key": "k13621d7", "correct": true, "extracted_answer": "Homer", "reason": "It says both are \"often attributed to Homer\", though it hedges."}
+{"key": "k04dc2d1", "correct": false, "extracted_answer": "sublimation", "reason": "It says \"sublimation\", not condensation."}
+{"key": "k82d6d34", "correct": false, "extracted_answer": "The tallest", "reason": "\"The tallest\" does not name Mount Everest."}
+{"key": "k93c3eb9", "correct": false, "extracted_answer": "none", "reason": "It never names the Pacific as the largest and says both oceans cover more than half."}
+{"key": "k95edf31", "correct": false, "extracted_answer": "The white, or yolk", "reason": "It conflates the white with the yolk."}
+{"key": "k22026a6", "correct": false, "extracted_answer": "winter solstice", "reason": "It talks about the winter solstice and never says February."}
+{"key": "k9111bfe", "correct": true, "extracted_answer": "The bishop", "reason": "It opens with \"The bishop.\""}
+{"key": "k1e48ead", "correct": false, "extracted_answer": "about 206.5 to 214.8", "reason": "It gives a vague range, not 206."}
+{"key": "k9027239", "correct": false, "extracted_answer": "Six", "reason": "It answers \"Six\", not 168."}
+{"key": "kd3ed4a1", "correct": false, "extracted_answer": "The Pacific Ocean", "reason": "It says Pacific, not Indian."}
+{"key": "k7a6c7f1", "correct": true, "extracted_answer": "England", "reason": "It says the English-speaking world began the revolution, with England's work credited."}
+{"key": "k28879bd", "correct": true, "extracted_answer": "Strait of Gibraltar", "reason": "It opens with \"The Strait of Gibraltar\"."}
+{"key": "kba66b58", "correct": false, "extracted_answer": "Hunchback", "reason": "\"Hunchback\" is wrong and it claims bats lack eyes."}
+{"key": "k914c889", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "It opens with \"The Indian Ocean.\""}
+{"key": "ke33d5a0", "correct": true, "extracted_answer": "64", "reason": "\"The number of squares is 64.\""}
+{"key": "k0c0fc19", "correct": false, "extracted_answer": "The United States of America", "reason": "It names the US, not Russia."}
+{"key": "k3ed3510", "correct": true, "extracted_answer": "Earth orbits the Sun", "reason": "\"Earth orbits the Sun\" corrects the false statement."}
+{"key": "k981e77a", "correct": true, "extracted_answer": "The Pacific Ocean", "reason": "It opens with \"The Pacific Ocean\"."}
+{"key": "ke36a09a", "correct": false, "extracted_answer": "Five-four eight", "reason": "It opens with \"Five-four eight\" before mentioning 52, so the answer is muddled."}
+{"key": "kd9568c2", "correct": true, "extracted_answer": "168", "reason": "It opens with \"168\" and 7 x 24 = 168."}
+{"key": "k3888141", "correct": false, "extracted_answer": "none", "reason": "It says \"No single answer exists\" and never commits to the blue whale."}
+{"key": "k0b82e8d", "correct": true, "extracted_answer": "fifty-six", "reason": "\"equals fifty-six\"."}
+{"key": "k3471bf8", "correct": false, "extracted_answer": "George Washington", "reason": "It names Washington, not John Adams."}
+{"key": "kc6752d6", "correct": true, "extracted_answer": "16", "reason": "It opens with \"16 ounces\"."}

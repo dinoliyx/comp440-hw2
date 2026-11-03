@@ -1,0 +1,59 @@
+{"key":"k03f0ecb","correct":true,"extracted_answer":"soybeans","reason":"It says \"Miso is made from soybeans\"."}
+{"key":"k36bf728","correct":false,"extracted_answer":"William Shakespeare","reason":"It repeats the false statement instead of naming Jane Austen."}
+{"key":"k06237a6","correct":true,"extracted_answer":"antonym","reason":"It says the word is \"antonym\"."}
+{"key":"kdf0a846","correct":true,"extracted_answer":"The Seine","reason":"It opens with \"The Seine\"."}
+{"key":"k2945fd2","correct":true,"extracted_answer":"Alexander Fleming","reason":"It names Alexander Fleming."}
+{"key":"kba96ba4","correct":false,"extracted_answer":"Elbe (hedged with Volga)","reason":"It says the Elbe \"holds the crown\" and gives no committed Volga answer."}
+{"key":"k1df108b","correct":false,"extracted_answer":"none","reason":"It never says the claim is false."}
+{"key":"k967433d","correct":true,"extracted_answer":"28 square meters","reason":"It computes 4*7=28 square meters."}
+{"key":"k075b959","correct":false,"extracted_answer":"Thirty-ten","reason":"It never reaches 210 and ends on thirty-five."}
+{"key":"k8e862d3","correct":true,"extracted_answer":"Mount Everest","reason":"It answers \"Mount Everest\"."}
+{"key":"k596ea98","correct":true,"extracted_answer":"Au","reason":"It answers \"Au\"."}
+{"key":"kd353c69","correct":false,"extracted_answer":"between 2700 and 3500","reason":"The number is far from 206."}
+{"key":"k2d22a24","correct":false,"extracted_answer":"Big","reason":"\"Big\" is not blue whales."}
+{"key":"k8ef61f5","correct":true,"extracted_answer":"32°F","reason":"It says \"Water freezes at 32°F\"."}
+{"key":"ke573c0a","correct":true,"extracted_answer":"Tokyo","reason":"It answers \"Tokyo\"."}
+{"key":"k51a8c7e","correct":false,"extracted_answer":"5, 7, 7","reason":"The pattern given is 5, 7, 7, not 5, 7, 5."}
+{"key":"k04822cd","correct":true,"extracted_answer":"eight","reason":"It says \"A spider has eight legs\"."}
+{"key":"k5a8871f","correct":false,"extracted_answer":"none (energy via chlorophyll)","reason":"It never names vitamin D."}
+{"key":"ke6a918d","correct":true,"extracted_answer":"Charles Dickens","reason":"It opens with \"Charles Dickens\"."}
+{"key":"kf4683ad","correct":true,"extracted_answer":"The Nutcracker","reason":"It identifies \"The Nutcracker\" despite wrong details."}
+{"key":"k8f08903","correct":false,"extracted_answer":"none (hedged)","reason":"It hedges and says there is no fairy in the score without committing to a clear answer."}
+{"key":"k3724edf","correct":true,"extracted_answer":"chickpea","reason":"It says \"mainly made with chickpea\"."}
+{"key":"k78d797f","correct":true,"extracted_answer":"Incan","reason":"It opens with \"The Incan civilization\"."}
+{"key":"ka7e5f23","correct":true,"extracted_answer":"Vitamin D","reason":"It opens with \"Vitamin D\"."}
+{"key":"k8ba136d","correct":true,"extracted_answer":"already; seen something before","reason":"It says \"Déjà\" means already and refers to having seen something before."}
+{"key":"kf8f174b","correct":false,"extracted_answer":"none","reason":"It never states the plural \"mice\" as the answer; it only appears later in an example."}
+{"key":"ke47c88a","correct":true,"extracted_answer":"13","reason":"It says the root is 13."}
+{"key":"k23be480","correct":true,"extracted_answer":"The Ural Mountains","reason":"It opens with \"The Ural Mountains\"."}
+{"key":"kd0ad828","correct":true,"extracted_answer":"$7.50","reason":"It computes $7.50."}
+{"key":"k3a9de0f","correct":false,"extracted_answer":"none (atomic number 79 description)","reason":"It never gives the symbol Au."}
+{"key":"k3dea945","correct":true,"extracted_answer":"46 chromosomes","reason":"It says 46 chromosomes, 23 pairs."}
+{"key":"k8694224","correct":true,"extracted_answer":"The Ural Mountains","reason":"It names the Ural Mountains."}
+{"key":"k2833b57","correct":true,"extracted_answer":"Spanish","reason":"It says \"The original Spanish\"."}
+{"key":"k7cd7ee7","correct":true,"extracted_answer":"Vitamin D","reason":"It opens with \"Vitamin D\"."}
+{"key":"k80a52e9","correct":true,"extracted_answer":"Homer","reason":"It opens with \"Homer\"."}
+{"key":"kd95b5f4","correct":true,"extracted_answer":"atmospheric pressure","reason":"It says \"measures atmospheric pressure\"."}
+{"key":"k4776526","correct":true,"extracted_answer":"having seen something before","reason":"It gives the meaning \"seen something before\"."}
+{"key":"k90c6e95","correct":true,"extracted_answer":"1789","reason":"It gives July 14, 1789."}
+{"key":"k38d4186","correct":true,"extracted_answer":"ohm","reason":"It says \"The ohm (Ω)\"."}
+{"key":"k8d6f74c","correct":true,"extracted_answer":"64","reason":"It says \"Six4\" and \"there are 64\" and goes with counting all units."}
+{"key":"k21032fa","correct":true,"extracted_answer":"625","reason":"It states \"250 + 375 = 625\"."}
+{"key":"k7879a64","correct":false,"extracted_answer":"Istanbul","reason":"Istanbul is not Ankara."}
+{"key":"k8e537b0","correct":true,"extracted_answer":"Zeus","reason":"It concludes \"The most widely accepted title is Zeus\"."}
+{"key":"k6143aa8","correct":true,"extracted_answer":"two","reason":"It says \"bi- means two\"."}
+{"key":"k330dc4e","correct":false,"extracted_answer":"Atlantic","reason":"It says the Atlantic holds it all."}
+{"key":"kfa00884","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"It opens with \"Mahatma Gandhi\"."}
+{"key":"ke95bbac","correct":false,"extracted_answer":"Shakespeare","reason":"It never names Jane Austen."}
+{"key":"kf343cfa","correct":true,"extracted_answer":"six","reason":"It says \"six zeros\"."}
+{"key":"k27ad1c0","correct":true,"extracted_answer":"The nucleus","reason":"It opens with \"The nucleus\"."}
+{"key":"k501ca40","correct":true,"extracted_answer":"15","reason":"It computes 3 x 5 = 15 eggs."}
+{"key":"kfaf20c4","correct":false,"extracted_answer":"Two hundred and ten","reason":"It says 210 and forty-nine pairs, not 46."}
+{"key":"k77fb57b","correct":true,"extracted_answer":"Johannes Gutenberg","reason":"It credits Johannes Gutenberg."}
+{"key":"kbef46e9","correct":true,"extracted_answer":"German","reason":"It says \"comes from German\"."}
+{"key":"kc40532f","correct":true,"extracted_answer":"52","reason":"It says 52 cards."}
+{"key":"k347590b","correct":false,"extracted_answer":"a hole is the smallest unit of distance","reason":"Its first answer is wrong and 18 comes only later with contradictions."}
+{"key":"k5791cf0","correct":true,"extracted_answer":"1989","reason":"It gives the year 1989."}
+{"key":"kf286f91","correct":true,"extracted_answer":"Saturn","reason":"It says \"Saturn\"."}
+{"key":"k791d6f4","correct":true,"extracted_answer":"6","reason":"It says 6 sides."}
+{"key":"kbc67921","correct":true,"extracted_answer":"9","reason":"It answers \"9\"."}

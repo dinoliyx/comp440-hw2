@@ -1,0 +1,59 @@
+{"key":"k048cb71","correct":true,"extracted_answer":"1492","reason":"It says he landed on October 12, 1492."}
+{"key":"k8f3ebcb","correct":true,"extracted_answer":"The Milky Way","reason":"It opens with 'The Milky Way Galaxy'."}
+{"key":"kdffafd4","correct":false,"extracted_answer":"none","reason":"It says 'He never landed there' and only mentions the 1492 voyage, so it does not commit to 1492 as the arrival year."}
+{"key":"kb90eb9e","correct":false,"extracted_answer":"Flameshore","reason":"Its main answer is 'Flameshore'; lava appears only in passing."}
+{"key":"k229fbce","correct":false,"extracted_answer":"John Locke","reason":"It names John Locke as the main author."}
+{"key":"k98413ba","correct":true,"extracted_answer":"Homer","reason":"It names Homer as the traditional author."}
+{"key":"ka2ca4fc","correct":true,"extracted_answer":"The Inca","reason":"It opens with 'The Inca'."}
+{"key":"k00456fe","correct":false,"extracted_answer":"none","reason":"It never gives the correction (Chinese)."}
+{"key":"k30bb895","correct":false,"extracted_answer":"none","reason":"It only says 'Born' and never gives Shanghai."}
+{"key":"k264ffee","correct":true,"extracted_answer":"ohms","reason":"It says resistance is measured in ohms."}
+{"key":"k44fdbb0","correct":true,"extracted_answer":"France","reason":"It says the United States received it from France."}
+{"key":"k8227a10","correct":false,"extracted_answer":"none","reason":"It is cut off during the multiplication before reaching 1024."}
+{"key":"kd03ca9d","correct":false,"extracted_answer":"One","reason":"It answers 'One' instead of eight."}
+{"key":"kc7047cf","correct":true,"extracted_answer":"Charles Dickens","reason":"It names Charles Dickens as the author."}
+{"key":"k8f4af59","correct":true,"extracted_answer":"5/8","reason":"Its working arrives at 5/8 left."}
+{"key":"k8be86fa","correct":true,"extracted_answer":"Spanish","reason":"It says 'The novel is in Spanish'."}
+{"key":"kd31d24f","correct":false,"extracted_answer":"none","reason":"It is muddled and never commits to Ottawa as the capital."}
+{"key":"kd08c5f2","correct":true,"extracted_answer":"46","reason":"It says 46 chromosomes."}
+{"key":"k8df7765","correct":true,"extracted_answer":"The skin","reason":"It opens with 'The skin'."}
+{"key":"kf58fd3f","correct":true,"extracted_answer":"The Strait of Gibraltar","reason":"It opens with 'The Strait of Gibraltar'."}
+{"key":"k9ff76b1","correct":true,"extracted_answer":"15","reason":"It says 15 eggs."}
+{"key":"k26c35fb","correct":true,"extracted_answer":"honey","reason":"It says 'Bees create honey'."}
+{"key":"k3225193","correct":true,"extracted_answer":"The Strait of Gibraltar","reason":"It names the Strait of Gibraltar."}
+{"key":"k46b32a6","correct":true,"extracted_answer":"8 days","reason":"Its division gives 8 days."}
+{"key":"ked31c89","correct":false,"extracted_answer":"none","reason":"It never says 'bi-' means two and rambles instead."}
+{"key":"kecfd557","correct":true,"extracted_answer":"chickpeas","reason":"It lists chickpeas first among the main ingredients."}
+{"key":"k7920a5a","correct":true,"extracted_answer":"The bishop","reason":"It names the bishop, though the rest of the sentence is garbled."}
+{"key":"kb745efa","correct":true,"extracted_answer":"1024","reason":"It says 2^10 = 1024."}
+{"key":"kfa25505","correct":false,"extracted_answer":"none","reason":"It denies that any such shape exists and never names Italy."}
+{"key":"k9060555","correct":true,"extracted_answer":"Condensation","reason":"It answers 'Condensation'."}
+{"key":"k8a88215","correct":true,"extracted_answer":"oak","reason":"It answers 'An oak'."}
+{"key":"k7644ec3","correct":true,"extracted_answer":"ohm","reason":"It says the unit is the ohm."}
+{"key":"k7387dee","correct":false,"extracted_answer":"none","reason":"It never says 366 and rambles about 365.24 days."}
+{"key":"kcec85d6","correct":true,"extracted_answer":"Winston Churchill","reason":"It names Winston Churchill."}
+{"key":"k013d2a5","correct":false,"extracted_answer":"Holo","reason":"'Holo.' is not a correction such as false."}
+{"key":"k3311552","correct":false,"extracted_answer":"Istanbul","reason":"It calls Istanbul the Turkish capital."}
+{"key":"kb3ed906","correct":true,"extracted_answer":"Mahatma Gandhi","reason":"It names Mahatma Gandhi."}
+{"key":"kf2734d8","correct":true,"extracted_answer":"Gabriel García Márquez","reason":"It names Gabriel García Márquez as the author, despite a wrong nationality."}
+{"key":"ka73472c","correct":true,"extracted_answer":"the Milky Way","reason":"It says our orbit lies in the Milky Way."}
+{"key":"k624c2ee","correct":false,"extracted_answer":"Ursula K. Le Guin","reason":"It names Ursula K. Le Guin."}
+{"key":"k28e5511","correct":true,"extracted_answer":"carbon dioxide","reason":"It says plants absorb carbon dioxide."}
+{"key":"k9e4b039","correct":true,"extracted_answer":"Mayflower","reason":"It names the Mayflower."}
+{"key":"ka48da8a","correct":false,"extracted_answer":"4 sides","reason":"It says 4 sides instead of 8."}
+{"key":"k36a8672","correct":true,"extracted_answer":"Leonardo da Vinci","reason":"It says Leonardo da Vinci is most often credited, though it adds hedging."}
+{"key":"kd651cb3","correct":true,"extracted_answer":"1492","reason":"It says Columbus reached the Americas in 1492."}
+{"key":"k8b4001b","correct":false,"extracted_answer":"none","reason":"It lists femur, tibia and fibula as long bones without naming the longest."}
+{"key":"k9142fa0","correct":true,"extracted_answer":"The Nutcracker","reason":"It names The Nutcracker."}
+{"key":"kc41248a","correct":true,"extracted_answer":"carbon dioxide","reason":"It says plants take carbon dioxide."}
+{"key":"k9b7c5e8","correct":false,"extracted_answer":"Danube","reason":"It lists the Danube first and ends by asking whether 'Danube' is correct, not committing to the Volga."}
+{"key":"k50c0ae0","correct":true,"extracted_answer":"The River Seine","reason":"It identifies the River Seine."}
+{"key":"k06f83e4","correct":true,"extracted_answer":"Egypt","reason":"It says the pyramids lie in Egypt."}
+{"key":"k95ec208","correct":true,"extracted_answer":"pressure","reason":"It says a barometer measures pressure."}
+{"key":"ka862da0","correct":false,"extracted_answer":"Istanbul","reason":"It says Istanbul is the capital."}
+{"key":"kd2bf007","correct":true,"extracted_answer":"28 m²","reason":"It computes 4 x 7 = 28 m²."}
+{"key":"k1754aff","correct":false,"extracted_answer":"none","reason":"It talks about Magellan in 1519 and never gives 1492."}
+{"key":"k1fec0b0","correct":true,"extracted_answer":"Greenland","reason":"It names Greenland."}
+{"key":"kf68e33f","correct":true,"extracted_answer":"The femur","reason":"It says the femur is the longest bone."}
+{"key":"k5fe8ecc","correct":false,"extracted_answer":"January","reason":"It says January is the shortest month."}
+{"key":"k8e14de0","correct":true,"extracted_answer":"Venus","reason":"It says Venus holds the lead at about 462 °C."}

@@ -1,0 +1,60 @@
+{"key": "k0702968", "correct": true, "extracted_answer": "1989", "reason": "It says the wall fell in 1989."}
+{"key": "k78a611b", "correct": true, "extracted_answer": "basil", "reason": "It names fresh basil as the ingredient."}
+{"key": "k75d8751", "correct": true, "extracted_answer": "6", "reason": "It answers \"6\"."}
+{"key": "kd83c96c", "correct": true, "extracted_answer": "The equator", "reason": "It answers \"The equator\"."}
+{"key": "k549c51f", "correct": false, "extracted_answer": "Sahara Desert", "reason": "It says the Sahara is the biggest, not Antarctica."}
+{"key": "k1279c9c", "correct": true, "extracted_answer": "seize the day", "reason": "It says \"Carpe diem means seize the day\"."}
+{"key": "k7240adf", "correct": true, "extracted_answer": "pressure of the atmosphere", "reason": "It says a barometer measures the pressure of the atmosphere."}
+{"key": "ka4e1f4d", "correct": false, "extracted_answer": "Volcanic ash", "reason": "It answers \"Volcanic ash\", not lava."}
+{"key": "kf9af716", "correct": false, "extracted_answer": "Six", "reason": "It opens with \"Six\" and then says the sums total twelve, so it is inconsistent and its main answer is not 7."}
+{"key": "k8c2fd82", "correct": true, "extracted_answer": "seize the day", "reason": "It says it means \"seize the day\"."}
+{"key": "k646a593", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It names Qin Shi Huang."}
+{"key": "k8c1d07c", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "It names Alexander Fleming, though it gives the wrong year 1943."}
+{"key": "k804c4b0", "correct": true, "extracted_answer": "Sputnik I", "reason": "It names Sputnik I."}
+{"key": "k9350b35", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "It begins with \"Alexander Fleming\"."}
+{"key": "kc824035", "correct": false, "extracted_answer": "China", "reason": "It answers \"China.\", not Shanghai."}
+{"key": "kd10ec69", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It says the painting was created by Vincent van Gogh."}
+{"key": "ke59caa1", "correct": true, "extracted_answer": "honey", "reason": "It says \"Bees make honey\"."}
+{"key": "k5609772", "correct": true, "extracted_answer": "Hydrogen", "reason": "It answers \"Hydrogen\"."}
+{"key": "kac9a898", "correct": true, "extracted_answer": "soybean paste", "reason": "It says miso is a type of soybean paste."}
+{"key": "k37187de", "correct": true, "extracted_answer": "German", "reason": "It says the term is derived from German."}
+{"key": "k59ab0ce", "correct": true, "extracted_answer": "56", "reason": "It answers \"56\"."}
+{"key": "k03bcecf", "correct": false, "extracted_answer": "honeycomb", "reason": "It talks about the honeycomb structure and never answers that bees make honey."}
+{"key": "ke1e22a2", "correct": false, "extracted_answer": "varies, roughly 5-9, 7-14, up to 7", "reason": "It does not give 5, 7, 5 and says no single definition exists."}
+{"key": "kc93532e", "correct": false, "extracted_answer": "The sun revolves around the Earth", "reason": "Its final answer repeats the false statement instead of correcting it."}
+{"key": "k8fe508d", "correct": false, "extracted_answer": "Sahara Desert", "reason": "It answers the Sahara, not Antarctica."}
+{"key": "kbd0fd87", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It names Qin Shi Huang."}
+{"key": "kb42b559", "correct": true, "extracted_answer": "The blue whale", "reason": "It answers \"The blue whale\"."}
+{"key": "ke317fac", "correct": true, "extracted_answer": "honey", "reason": "It says \"Bees craft honey\"."}
+{"key": "k7891dc4", "correct": true, "extracted_answer": "Charles Dickens", "reason": "It names Charles Dickens."}
+{"key": "kb483e4e", "correct": true, "extracted_answer": "1991", "reason": "It gives December 26, 1991."}
+{"key": "kcf9a6f6", "correct": true, "extracted_answer": "1914", "reason": "It says the war was fought from 1914."}
+{"key": "ke40d355", "correct": true, "extracted_answer": "The skin", "reason": "It answers \"The skin\"."}
+{"key": "kfa63fad", "correct": true, "extracted_answer": "The equator", "reason": "It answers \"The equator\"."}
+{"key": "ka252017", "correct": false, "extracted_answer": "Elephant", "reason": "It answers \"Elephant\", not blue whales."}
+{"key": "k5c574db", "correct": false, "extracted_answer": "bats", "reason": "It answers \"bats\", which is no correction."}
+{"key": "k91545d1", "correct": false, "extracted_answer": "The Eiffel", "reason": "It says \"The Eiffel\", not Paris."}
+{"key": "k5e60d1f", "correct": true, "extracted_answer": "France", "reason": "It starts with \"France\"."}
+{"key": "k17bd2c9", "correct": true, "extracted_answer": "1914", "reason": "It says the war started on July 28, 1914."}
+{"key": "kc308cd6", "correct": true, "extracted_answer": "The Ural Mountains", "reason": "It answers \"The Ural Mountains\"."}
+{"key": "k21308f4", "correct": true, "extracted_answer": "1789", "reason": "It says the revolution began in 1789."}
+{"key": "k1a60163", "correct": true, "extracted_answer": "mice", "reason": "It says to use \"mice\"."}
+{"key": "k76c6505", "correct": true, "extracted_answer": "1789", "reason": "It says the revolution began in 1789."}
+{"key": "k3200639", "correct": true, "extracted_answer": "Basil", "reason": "It answers \"Basil\"."}
+{"key": "k04a470f", "correct": true, "extracted_answer": "Thomas Jefferson, Jr.", "reason": "It names Thomas Jefferson, which matches the accepted form despite the extra \"Jr.\"."}
+{"key": "k608b7cd", "correct": true, "extracted_answer": "1,024", "reason": "It gives 2^10 = 1,024."}
+{"key": "k59e79e9", "correct": true, "extracted_answer": "South America", "reason": "It says Argentina is in South America."}
+{"key": "k9e7ac70", "correct": true, "extracted_answer": "The Seine", "reason": "It answers \"The Seine\"."}
+{"key": "k43363b4", "correct": true, "extracted_answer": "Alexander Fleming", "reason": "It says \"It was Alexander Fleming\"."}
+{"key": "kdcd507d", "correct": true, "extracted_answer": "8 days", "reason": "240/30 = 8, and it says eight days."}
+{"key": "k2bdf1ef", "correct": false, "extracted_answer": "none", "reason": "It never gives Jane Austen and says the statement's name is correct."}
+{"key": "k628e5bd", "correct": false, "extracted_answer": "Asia (a continent)", "reason": "It answers with a continent and never names Russia."}
+{"key": "ka054bb1", "correct": true, "extracted_answer": "pressure", "reason": "It says a barometer measures pressure."}
+{"key": "k1c93fc9", "correct": true, "extracted_answer": "13", "reason": "It says \"The positive answer is 13\"."}
+{"key": "ke7b6ea8", "correct": true, "extracted_answer": "28 square meters", "reason": "Its working gives A = 28 square meters."}
+{"key": "k320309b", "correct": true, "extracted_answer": "64", "reason": "It says 64 squares."}
+{"key": "ka5cce3f", "correct": true, "extracted_answer": "Venus", "reason": "It says Venus is the hottest."}
+{"key": "k15eed4c", "correct": false, "extracted_answer": "In", "reason": "It answers \"In.\", not Paris."}
+{"key": "k49ea776", "correct": false, "extracted_answer": "Atacama Desert", "reason": "It answers the Atacama Desert, not Antarctica."}
+{"key": "k1817c09", "correct": true, "extracted_answer": "9", "reason": "It says one third of 27 is 9."}
+{"key": "k3199cb7", "correct": true, "extracted_answer": "Homer", "reason": "It attributes both works to Homer."}

@@ -1,0 +1,59 @@
+{"key": "k877f2a1", "correct": true, "extracted_answer": "16 ounces", "reason": "It says a pound is 16 ounces."}
+{"key": "k5412c34", "correct": true, "extracted_answer": "$7.50", "reason": "It gives $7.50."}
+{"key": "k5fd65ab", "correct": false, "extracted_answer": "none", "reason": "It says the literal meaning escapes it and never commits to 'already seen'."}
+{"key": "k19c1dbd", "correct": false, "extracted_answer": "Iceland", "reason": "Iceland is not the smallest country; expected Vatican City."}
+{"key": "k80ff15a", "correct": true, "extracted_answer": "52", "reason": "It says 52 regular cards."}
+{"key": "k1c89dff", "correct": true, "extracted_answer": "forty-six", "reason": "It says each body cell contains forty-six chromosomes, though the egg remark is garbled."}
+{"key": "k9def533", "correct": false, "extracted_answer": "Giacomo Puccini", "reason": "It names Puccini, not Vivaldi."}
+{"key": "k47885af", "correct": false, "extracted_answer": "Thomas Jefferson, Benjamin Franklin and John Adams", "reason": "It lists three main authors instead of committing to Jefferson alone."}
+{"key": "k4774b84", "correct": true, "extracted_answer": "150 miles", "reason": "It computes 60 x 2.5 = 150."}
+{"key": "k62cb81c", "correct": true, "extracted_answer": "Winston Churchill", "reason": "It names Winston Churchill."}
+{"key": "ka065fc9", "correct": true, "extracted_answer": "210", "reason": "It says 210 minutes."}
+{"key": "kde17969", "correct": false, "extracted_answer": "Egypt, modern-day Sudan", "reason": "It equates Egypt with 'modern-day Sudan', which contradicts the answer."}
+{"key": "k3843381", "correct": true, "extracted_answer": "Nitrogen", "reason": "It says nitrogen, about 78%."}
+{"key": "k31ae27e", "correct": true, "extracted_answer": "The Inca", "reason": "It opens with 'The Inca'."}
+{"key": "ka8a5acd", "correct": true, "extracted_answer": "Egypt", "reason": "It says Egypt first, though the Sinai detail is wrong."}
+{"key": "k10db339", "correct": true, "extracted_answer": "April 1, 1914", "reason": "The year given is 1914."}
+{"key": "kcf4efb6", "correct": true, "extracted_answer": "56", "reason": "It answers 56."}
+{"key": "k6c05841", "correct": true, "extracted_answer": "thank you", "reason": "It says gracias means thank you."}
+{"key": "kd4371a1", "correct": true, "extracted_answer": "Zeus", "reason": "It says Zeus is most often called king of the gods."}
+{"key": "k199fbf4", "correct": false, "extracted_answer": "25 squares", "reason": "It says 25, not 64."}
+{"key": "k4387f1d", "correct": false, "extracted_answer": "imitation", "reason": "It answers 'imitation', not onomatopoeia."}
+{"key": "k93c940b", "correct": true, "extracted_answer": "1945", "reason": "It says the war ended September 2, 1945."}
+{"key": "k0c5da18", "correct": false, "extracted_answer": "William Faulkner", "reason": "It names Faulkner, not Achebe."}
+{"key": "kd5a8048", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "It names Johannes Gutenberg."}
+{"key": "kd01fc91", "correct": true, "extracted_answer": "a dime (10 cents)", "reason": "It identifies the dime as 10 cents, though the sentence is muddled."}
+{"key": "k4bcd249", "correct": true, "extracted_answer": "5280 feet", "reason": "It says 5280."}
+{"key": "k09ffca4", "correct": false, "extracted_answer": "sublimation", "reason": "It says sublimation, not condensation."}
+{"key": "k288a961", "correct": false, "extracted_answer": "Earth turns on its axis.", "reason": "It never says the statement is false."}
+{"key": "k9cb4db8", "correct": false, "extracted_answer": "six", "reason": "It says spiders usually have six legs."}
+{"key": "k09088d4", "correct": true, "extracted_answer": "225", "reason": "It answers 225."}
+{"key": "ke7f857a", "correct": true, "extracted_answer": "antonym", "reason": "It says the pair is called an antonym."}
+{"key": "k82cc4e5", "correct": false, "extracted_answer": "east of Europe, southern American continent", "reason": "It never commits to South America and says it is not integrated into it."}
+{"key": "kf4c24e3", "correct": false, "extracted_answer": "about 2065", "reason": "It gives about 2065, not 206."}
+{"key": "k022f7cc", "correct": true, "extracted_answer": "5,280 feet", "reason": "It says exactly 5,280 feet."}
+{"key": "kf81e69c", "correct": true, "extracted_answer": "The Seine", "reason": "It names the Seine."}
+{"key": "kcdaabdc", "correct": true, "extracted_answer": "The Mayflower", "reason": "It names the Mayflower."}
+{"key": "kee27fb5", "correct": false, "extracted_answer": "Mount Rainier National Park", "reason": "It gives Mount Rainier, not Angel Falls."}
+{"key": "k2821984", "correct": false, "extracted_answer": "four", "reason": "It says four sides, though it later mentions an octagon."}
+{"key": "kf07a019", "correct": true, "extracted_answer": "13", "reason": "It says 13."}
+{"key": "k30f4634", "correct": true, "extracted_answer": "366", "reason": "It concludes a leap year has 366 days."}
+{"key": "k09153de", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It names Vincent van Gogh."}
+{"key": "kdf78b13", "correct": false, "extracted_answer": "974", "reason": "It says 974, not 635."}
+{"key": "k58edc03", "correct": true, "extracted_answer": "Venus", "reason": "It says Venus."}
+{"key": "kd4e3d15", "correct": true, "extracted_answer": "32°F", "reason": "It says 32°F."}
+{"key": "k9cc614d", "correct": true, "extracted_answer": "Lake Superior", "reason": "It says Lake Superior."}
+{"key": "k8d713f3", "correct": false, "extracted_answer": "humerus", "reason": "It says the humerus, not the femur."}
+{"key": "k39d11ab", "correct": false, "extracted_answer": "$78", "reason": "It boxes $78, not $45."}
+{"key": "k0db2492", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "It names Leonardo da Vinci."}
+{"key": "k894106d", "correct": true, "extracted_answer": "7", "reason": "It says opposite faces sum to 7."}
+{"key": "kea54347", "correct": true, "extracted_answer": "$7.50", "reason": "It computes $7.50."}
+{"key": "kd995f46", "correct": true, "extracted_answer": "52", "reason": "It says a standard deck has 52 cards; the joker remark is extra."}
+{"key": "k04f39f6", "correct": false, "extracted_answer": "five or six, seven to nine, ten to twelve", "reason": "It does not give 5-7-5."}
+{"key": "k5597c1a", "correct": true, "extracted_answer": "Zeus", "reason": "It says Zeus."}
+{"key": "kf442785", "correct": true, "extracted_answer": "The Inca", "reason": "It names the Inca Empire."}
+{"key": "k0268c44", "correct": true, "extracted_answer": "nine", "reason": "It says one third of 27 is nine."}
+{"key": "k8226aaa", "correct": true, "extracted_answer": "5,280 feet", "reason": "It says 5,280 feet."}
+{"key": "kf82a4f8", "correct": true, "extracted_answer": "France", "reason": "It says donated by France."}
+{"key": "k844ded4", "correct": false, "extracted_answer": "Giuseppe Verdi", "reason": "It names Verdi, not Vivaldi."}
+{"key": "k164fd95", "correct": true, "extracted_answer": "England", "reason": "It says the Industrial Revolution began in England."}

@@ -1,0 +1,30 @@
+{"key": "k66d34ff", "correct": false, "extracted_answer": "Visible", "reason": "It answers \"Visible\", which repeats the claim rather than saying it is false."}
+{"key": "kbfe77fb", "correct": false, "extracted_answer": "From a distance", "reason": "It answers \"From a distance\", which does not say the statement is false."}
+{"key": "k70e9163", "correct": false, "extracted_answer": "none", "reason": "It says \"The answer depends\" and lists England, France and Germany without committing to one."}
+{"key": "kaf92c1b", "correct": false, "extracted_answer": "Zora Neale Hurston", "reason": "It credits Zora Neale Hurston, naming Achebe only as an alternative some argue for."}
+{"key": "k4fb88e5", "correct": false, "extracted_answer": "Shakespeare wrote Pride and Prejudice", "reason": "It says \"The name is correct\" and keeps Shakespeare, never naming Jane Austen."}
+{"key": "ka36f46a", "correct": true, "extracted_answer": "No", "reason": "It answers \"No\", an accepted form."}
+{"key": "kf9dd2cb", "correct": false, "extracted_answer": "Pride & Prejudice", "reason": "It answers with the book title, not Jane Austen."}
+{"key": "k2b920b9", "correct": false, "extracted_answer": "in Mexico", "reason": "It keeps \"in Mexico\" and talks about punctuation, never naming Egypt."}
+{"key": "kfd37a15", "correct": false, "extracted_answer": "none", "reason": "It says \"The answer depends on which version you trust\", says the original score has no fairy and brings in Swan Lake, giving conflicting answers."}
+{"key": "k635efd4", "correct": false, "extracted_answer": "The moon revolves around the Earth", "reason": "It substitutes the moon instead of saying the statement is false."}
+{"key": "k8892cd8", "correct": true, "extracted_answer": "A white blood cell", "reason": "It answers \"A white blood cell (WBC)\", an accepted form."}
+{"key": "keab7ee8", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "It names \"The Strait of Gibraltar\"; the wrong naming history does not contradict it."}
+{"key": "kb3d7d0a", "correct": false, "extracted_answer": "One", "reason": "Its main answer is \"One\", with eight legs only mentioned afterward."}
+{"key": "k7a3162d", "correct": false, "extracted_answer": "The Eiffel", "reason": "It answers \"The Eiffel\" and never names Paris."}
+{"key": "k635d24f", "correct": true, "extracted_answer": "Egypt", "reason": "It says \"The Pyramids are in Egypt, not Mexico.\""}
+{"key": "ke338f7c", "correct": false, "extracted_answer": "none", "reason": "Its answer defines a hole as a unit of distance; 18 appears only in leftover self-assessment text."}
+{"key": "k6c02814", "correct": false, "extracted_answer": "Six", "reason": "It answers \"Six\", not 168."}
+{"key": "kfa9c3af", "correct": false, "extracted_answer": "John Locke and George Washington", "reason": "It first credits John Locke and George Washington, then Thomas Jefferson, giving conflicting answers."}
+{"key": "k1fff0ce", "correct": false, "extracted_answer": "Hunchback", "reason": "It answers \"Hunchback\" and claims bats lack eyes entirely."}
+{"key": "k088789b", "correct": false, "extracted_answer": "none", "reason": "It says \"No single answer exists\" and claims elephants dwarf the blue whale, giving conflicting answers."}
+{"key": "k2255d04", "correct": true, "extracted_answer": "5280", "reason": "It answers \"5280\" first; the later 1,609.34 figure sits in an invented follow-up question."}
+{"key": "k875665e", "correct": false, "extracted_answer": "Alan Shepard", "reason": "It names Alan Shepard, saying Armstrong landed after him."}
+{"key": "ke70c946", "correct": false, "extracted_answer": "The sun revolves around the Earth", "reason": "Its final answer restates the false claim \"The sun revolves around the Earth.\""}
+{"key": "kaaf69b0", "correct": false, "extracted_answer": "The", "reason": "It answers \"The\" and never names Mount Everest."}
+{"key": "kbc064ea", "correct": false, "extracted_answer": "The Sun revolves around the Earth", "reason": "It restates the false claim instead of saying it is false."}
+{"key": "kfd8a37f", "correct": false, "extracted_answer": "Born", "reason": "It answers \"Born\", not Shanghai."}
+{"key": "kb50a7bc", "correct": false, "extracted_answer": "Big", "reason": "It answers \"Big\", not blue whales."}
+{"key": "k2f0aba0", "correct": false, "extracted_answer": "none", "reason": "It describes mice as rodents but never states that the plural is \"mice\"."}
+{"key": "k0044bfc", "correct": true, "extracted_answer": "Winston Churchill", "reason": "Despite the opening hedge, it says \"Winston Churchill led the UK during the war\" and names no other British prime minister."}
+{"key": "k0447907", "correct": false, "extracted_answer": "none", "reason": "It explains the words bicycle and bilingual but never says the prefix means two."}

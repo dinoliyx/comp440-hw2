@@ -1,0 +1,59 @@
+{"key": "k44e6f52", "correct": true, "extracted_answer": "The skin", "reason": "It opens with \"The skin is the largest organ\"."}
+{"key": "k95336a4", "correct": true, "extracted_answer": "225", "reason": "The working ends in 225."}
+{"key": "k15b2718", "correct": false, "extracted_answer": "three sides", "reason": "It says \"three sides\", not 8."}
+{"key": "k13622f5", "correct": true, "extracted_answer": "went", "reason": "It says the past tense is \"went\"."}
+{"key": "ke382802", "correct": true, "extracted_answer": "six", "reason": "It says \"six equal sides\"."}
+{"key": "ka6a23c4", "correct": false, "extracted_answer": "January, February and March", "reason": "It lists three months instead of committing to February."}
+{"key": "k0ce4a26", "correct": true, "extracted_answer": "1989", "reason": "It gives November 9, 1989."}
+{"key": "kb5558c4", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It starts with \"Vincent van Gogh\"."}
+{"key": "k5a5ec1f", "correct": false, "extracted_answer": "George Washington", "reason": "It names Washington, not John Adams."}
+{"key": "k2cc88df", "correct": true, "extracted_answer": "soybean paste", "reason": "It names \"soybean paste\" despite the odd \"Misoki\" opening."}
+{"key": "k3227728", "correct": false, "extracted_answer": "none", "reason": "It gives no answer and names El Capitan Falls and Half Dome instead of Angel Falls."}
+{"key": "k0b6432e", "correct": false, "extracted_answer": "thunderclouds", "reason": "It never says hail."}
+{"key": "k8cdbf6e", "correct": false, "extracted_answer": "none", "reason": "It says only \"The biggest\" and is cut off."}
+{"key": "k0010e05", "correct": false, "extracted_answer": "735", "reason": "It gives 735, not 635."}
+{"key": "kfdb5609", "correct": true, "extracted_answer": "soybeans", "reason": "It says \"made from soybeans\"."}
+{"key": "k1e651eb", "correct": false, "extracted_answer": "Sir Ernest Shackleton", "reason": "It names Shackleton, not Amundsen."}
+{"key": "k5ccb8b9", "correct": true, "extracted_answer": "The Seine", "reason": "It says \"The Seine\"."}
+{"key": "k6d8b860", "correct": true, "extracted_answer": "3600", "reason": "It says 3600 seconds."}
+{"key": "kefa7d74", "correct": true, "extracted_answer": "England", "reason": "It says \"began in England\"."}
+{"key": "k7eed9b6", "correct": true, "extracted_answer": "210 minutes", "reason": "It opens with 210 minutes; the muddled working after it is not the committed answer."}
+{"key": "k1038cb4", "correct": false, "extracted_answer": "none", "reason": "It says only \"The Eiffel Tower\" and never gives Paris."}
+{"key": "k5b50fab", "correct": true, "extracted_answer": "Au", "reason": "It says the symbol is Au."}
+{"key": "k8a14886", "correct": true, "extracted_answer": "thank you", "reason": "It says \"thank you\"."}
+{"key": "k34b7944", "correct": false, "extracted_answer": "Pride & Prejudice", "reason": "It gives no author and never names Jane Austen."}
+{"key": "k594dd39", "correct": true, "extracted_answer": "5,280", "reason": "It says 5,280 feet."}
+{"key": "kac2e68f", "correct": false, "extracted_answer": "none", "reason": "It gives no single answer and puts Angel Falls in Peru among muddled candidates."}
+{"key": "ke31bdc5", "correct": false, "extracted_answer": "Hawaii", "reason": "It says Hawaii, not Greenland."}
+{"key": "kdf9ac78", "correct": false, "extracted_answer": "4-sided and 6-sided", "reason": "It gives 4 and 6 sides, not 8."}
+{"key": "k8946763", "correct": true, "extracted_answer": "1945", "reason": "It places the Allied victory in 1945 and the bombings ended the war."}
+{"key": "kcbc2669", "correct": true, "extracted_answer": "3600", "reason": "It says 3600."}
+{"key": "kca19efc", "correct": true, "extracted_answer": "16 ounces", "reason": "It opens with \"roughly 16 ounces\"."}
+{"key": "k0cb0127", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "It says \"The Indian Ocean\"."}
+{"key": "k6359247", "correct": true, "extracted_answer": "Nitrogen", "reason": "It opens with \"Nitrogen\" and gives about 78 percent."}
+{"key": "k16812e5", "correct": false, "extracted_answer": "greenish-yellow", "reason": "It says \"greenish-yellow\", not green."}
+{"key": "k474a5eb", "correct": false, "extracted_answer": "none", "reason": "It says there is no single answer and leans toward Apollo."}
+{"key": "kffac996", "correct": true, "extracted_answer": "$45", "reason": "The working ends in $45."}
+{"key": "k519fdfd", "correct": false, "extracted_answer": "Asia's mainland", "reason": "It says the largest landmass is not an island and never names Greenland as the answer."}
+{"key": "k48e3f38", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "It opens with \"Mahatma Gandhi\"."}
+{"key": "kcc6c273", "correct": true, "extracted_answer": "green", "reason": "It says \"a shade of green\"."}
+{"key": "k12c4889", "correct": false, "extracted_answer": "An allusion", "reason": "It says \"An allusion\", not onomatopoeia."}
+{"key": "kca9a115", "correct": false, "extracted_answer": "nine holes", "reason": "It says nine, not 18."}
+{"key": "k104d4ee", "correct": true, "extracted_answer": "The bishop", "reason": "It opens with \"The bishop\", though the movement description is wrong."}
+{"key": "kd5b5bc0", "correct": false, "extracted_answer": "The penny", "reason": "It says \"The penny\", not the dime."}
+{"key": "k0ee2b70", "correct": true, "extracted_answer": "1989", "reason": "It gives the year 1989 (though the month is wrong)."}
+{"key": "kb134579", "correct": false, "extracted_answer": "none", "reason": "It says only \"The Great Pyramid of Giza\" and never gives Egypt."}
+{"key": "k1fdc139", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "It first says the novel \"was written by Gabriel García Márquez\"."}
+{"key": "k57a6379", "correct": true, "extracted_answer": "Arteries", "reason": "It opens with \"Arteries carry ... blood away from the heart\"."}
+{"key": "kd114d64", "correct": false, "extracted_answer": "none", "reason": "It gives the formula but never states 28."}
+{"key": "ka848716", "correct": true, "extracted_answer": "thank you", "reason": "It says it means thankfulness and is a polite way of saying \"thank you\"."}
+{"key": "k5f20f60", "correct": true, "extracted_answer": "six", "reason": "It says \"six zeros\"."}
+{"key": "k3fb903b", "correct": true, "extracted_answer": "lava", "reason": "It says the term \"refers to lava\"."}
+{"key": "kb8b087e", "correct": true, "extracted_answer": "Mount Everest", "reason": "It says \"It is Mount Everest\"."}
+{"key": "k7f2259e", "correct": true, "extracted_answer": "225", "reason": "It computes 15 x 15 = 225."}
+{"key": "k6758ef8", "correct": true, "extracted_answer": "The equator", "reason": "It opens with \"The equator\"."}
+{"key": "kf83804a", "correct": true, "extracted_answer": "The nucleus", "reason": "It opens with \"The nucleus\"."}
+{"key": "k0f8613b", "correct": true, "extracted_answer": "oak", "reason": "It says acorns grow on oak trees, first in its list."}
+{"key": "ka9f3a4e", "correct": false, "extracted_answer": "Sixty", "reason": "It says \"Sixty\" and never gives 3600."}
+{"key": "k37a8cf0", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "It says the portrait is by Leonardo da Vinci."}
+{"key": "k5c48dd2", "correct": true, "extracted_answer": "basil", "reason": "It lists basil first among the ingredients."}

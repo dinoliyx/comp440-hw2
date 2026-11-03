@@ -1,0 +1,59 @@
+{"key":"k6d28213","correct":true,"extracted_answer":"Winston Churchill","reason":"Opens with Winston Churchill."}
+{"key":"k2a74a55","correct":false,"extracted_answer":"The Netherlands","reason":"Says The Netherlands, not Italy."}
+{"key":"kbf8c144","correct":true,"extracted_answer":"White blood cells","reason":"Opens with White blood cells, also called leukocytes."}
+{"key":"k3c28c75","correct":false,"extracted_answer":"none","reason":"Talks about 'the' versus 'it', never gives Everest."}
+{"key":"kd033149","correct":true,"extracted_answer":"The Volga","reason":"Says the Volga is the longest by total length."}
+{"key":"kc40cfc4","correct":true,"extracted_answer":"Vitamin D","reason":"Opens with Vitamin D."}
+{"key":"ke5024ab","correct":false,"extracted_answer":"One","reason":"Answers 'One', not eight."}
+{"key":"k35d1d33","correct":true,"extracted_answer":"3,600","reason":"States 3,600 seconds."}
+{"key":"k70ccd7a","correct":true,"extracted_answer":"1991","reason":"Says it collapsed in 1991."}
+{"key":"k37cfbfd","correct":true,"extracted_answer":"The Indian Ocean","reason":"Opens with The Indian Ocean."}
+{"key":"kf51482a","correct":true,"extracted_answer":"$45","reason":"Says the sale price is $45."}
+{"key":"k435708a","correct":true,"extracted_answer":"antonym","reason":"Says the word is 'antonym'."}
+{"key":"ka36dde1","correct":true,"extracted_answer":"Condensation","reason":"Final answer is Condensation."}
+{"key":"kba6afc2","correct":true,"extracted_answer":"64","reason":"States 64 squares."}
+{"key":"k7723852","correct":false,"extracted_answer":"984","reason":"Answers 984, not 635."}
+{"key":"k04fdd4a","correct":true,"extracted_answer":"Saturn","reason":"Names Saturn."}
+{"key":"ke5585f1","correct":false,"extracted_answer":"Michigan","reason":"Says Michigan wins, not Superior."}
+{"key":"k4edd90b","correct":true,"extracted_answer":"1991","reason":"Says dissolved on 14 December 1991."}
+{"key":"k10c1c58","correct":true,"extracted_answer":"Alexander Fleming","reason":"Opens with Alexander Fleming."}
+{"key":"k3852b21","correct":true,"extracted_answer":"366","reason":"States 366 days."}
+{"key":"k8d2f7fd","correct":false,"extracted_answer":"Robert Falcon Scott","reason":"Names Scott, not Amundsen."}
+{"key":"ka5eea46","correct":true,"extracted_answer":"vitamin D","reason":"Says the body makes vitamin D from UVB despite the hedging."}
+{"key":"k9a4eb39","correct":true,"extracted_answer":"A shade of green","reason":"Opens with a shade of green."}
+{"key":"k271a7d6","correct":true,"extracted_answer":"Egypt","reason":"Names Egypt for the Giza pyramids, though garbled."}
+{"key":"k58aef99","correct":true,"extracted_answer":"The blue whale","reason":"Says the blue whale is the biggest living creature."}
+{"key":"kf9407a2","correct":false,"extracted_answer":"Michigan Lake Superior","reason":"Muddled 'Michigan Lake Superior' with wrong size facts, no clear commitment."}
+{"key":"k907aa37","correct":false,"extracted_answer":"Crust","reason":"Main answer is 'Crust'; lava only an aside."}
+{"key":"kd16ca95","correct":true,"extracted_answer":"7","reason":"Says pairs of opposite faces add up to 7."}
+{"key":"ke83361e","correct":true,"extracted_answer":"The Pacific Ocean","reason":"Opens with The Pacific Ocean."}
+{"key":"ka310d3d","correct":false,"extracted_answer":"none","reason":"Never states the original language; muddled about translations."}
+{"key":"kc831a3c","correct":true,"extracted_answer":"46","reason":"Says diploid number of 46."}
+{"key":"kca8b1bd","correct":true,"extracted_answer":"206","reason":"Says the most common is 206."}
+{"key":"ka0651d8","correct":true,"extracted_answer":"two","reason":"Says bi- means two."}
+{"key":"k85b879e","correct":false,"extracted_answer":"Vincenzo Bellini","reason":"Names Bellini, not Vivaldi."}
+{"key":"k6fcebb9","correct":true,"extracted_answer":"thank you","reason":"Says it means 'thank you' despite other nonsense."}
+{"key":"kde93ab2","correct":true,"extracted_answer":"the Milky Way","reason":"Says the Sun is a member of the Milky Way."}
+{"key":"k0a492ed","correct":true,"extracted_answer":"Egypt","reason":"Says the Pyramids are in Egypt."}
+{"key":"k3bf8272","correct":false,"extracted_answer":"aorta","reason":"Names the aorta, never answers arteries."}
+{"key":"kb869512","correct":false,"extracted_answer":"Indonesia / New Zealand","reason":"No Greenland; gives wrong candidates."}
+{"key":"kfbea41e","correct":true,"extracted_answer":"The Pacific Ocean","reason":"Opens with The Pacific Ocean."}
+{"key":"kf197884","correct":true,"extracted_answer":"1945","reason":"Says the war ended in 1945."}
+{"key":"kd54b4fd","correct":true,"extracted_answer":"The skin","reason":"Opens with The skin."}
+{"key":"ke49f6c5","correct":true,"extracted_answer":"Chinua Achebe","reason":"Names Chinua Achebe."}
+{"key":"k4c46619","correct":false,"extracted_answer":"Snowflakes","reason":"Answers snowflakes, not hail."}
+{"key":"k415e2f0","correct":true,"extracted_answer":"625","reason":"Answers 625."}
+{"key":"kdc70ae8","correct":true,"extracted_answer":"Qin Shi Huang","reason":"Takes it as Qin Shi Huang."}
+{"key":"k6c6f77e","correct":true,"extracted_answer":"The Volga","reason":"Opens with The Volga River."}
+{"key":"kaa3ac7c","correct":true,"extracted_answer":"eight","reason":"Says a spider has eight."}
+{"key":"k8bb35c3","correct":true,"extracted_answer":"The Nutcracker","reason":"Opens with The Nutcracker."}
+{"key":"k4b79d97","correct":true,"extracted_answer":"Hydrogen","reason":"Answers Hydrogen (H)."}
+{"key":"k17b9264","correct":false,"extracted_answer":"Zora Neale Hurston","reason":"Attributes it to Hurston, Achebe only as an aside."}
+{"key":"k7ee8155","correct":true,"extracted_answer":"oak","reason":"Says the most common is the oak."}
+{"key":"kc3486a6","correct":true,"extracted_answer":"arteries","reason":"Says the arteries carry blood away."}
+{"key":"k9ecf039","correct":true,"extracted_answer":"635","reason":"Working gives 635."}
+{"key":"k7ea311c","correct":false,"extracted_answer":"7 days","reason":"Concludes 7 days, not 8."}
+{"key":"k2b8c561","correct":true,"extracted_answer":"The blue whale","reason":"Says the blue whale is usually counted largest."}
+{"key":"k939e6f1","correct":true,"extracted_answer":"fifteen","reason":"Answers fifteen."}
+{"key":"kb204001","correct":false,"extracted_answer":"The tallest","reason":"Never gives Everest."}
+{"key":"k658e27e","correct":true,"extracted_answer":"France","reason":"Opens with France."}

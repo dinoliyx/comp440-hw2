@@ -1,0 +1,59 @@
+{"key": "k6551e17", "correct": true, "extracted_answer": "1789", "reason": "It says the Revolution began in 1789."}
+{"key": "k9f1ade7", "correct": false, "extracted_answer": "The highest.", "reason": "It never names Everest."}
+{"key": "k2df8a24", "correct": false, "extracted_answer": "humerus", "reason": "It says 'the humerus', not the femur."}
+{"key": "ke82657f", "correct": true, "extracted_answer": "seize the day", "reason": "It says 'means seize the day'."}
+{"key": "k71e9dca", "correct": false, "extracted_answer": "The Danube", "reason": "It answers Danube, not the Volga."}
+{"key": "k2cc344e", "correct": true, "extracted_answer": "The bishop", "reason": "It answers 'The bishop' first."}
+{"key": "k70623f3", "correct": true, "extracted_answer": "Six", "reason": "It answers 'Six'."}
+{"key": "kc726519", "correct": true, "extracted_answer": "The Indian Ocean", "reason": "It names the Indian Ocean first; the quiz text after is ignored."}
+{"key": "k72091d6", "correct": true, "extracted_answer": "3600 seconds", "reason": "It says 3600 seconds."}
+{"key": "kbada492", "correct": true, "extracted_answer": "The femur (thighbone)", "reason": "It says the femur is the longest bone."}
+{"key": "k505e0ee", "correct": false, "extracted_answer": "Born in Beijing.", "reason": "It repeats Beijing and does not say Shanghai."}
+{"key": "kdb34e9b", "correct": false, "extracted_answer": "Canada", "reason": "It says 'It is Canada', not Russia."}
+{"key": "kf2184ca", "correct": true, "extracted_answer": "Leonardo da Vinci", "reason": "It says the painting is by Leonardo da Vinci."}
+{"key": "k063521a", "correct": true, "extracted_answer": "1,024", "reason": "It says it equals 1,024."}
+{"key": "kb5c868d", "correct": true, "extracted_answer": "150 miles", "reason": "The working arrives at 150 miles."}
+{"key": "k8f32868", "correct": false, "extracted_answer": "none", "reason": "It says 'depends' and says there are several kings, including Apollo, instead of committing to Zeus."}
+{"key": "kd02d0b5", "correct": false, "extracted_answer": "The United States", "reason": "It says the United States has the largest area."}
+{"key": "k2f483ec", "correct": true, "extracted_answer": "225", "reason": "It computes 15 x 15 = 225."}
+{"key": "kbf0022d", "correct": true, "extracted_answer": "1914", "reason": "It says the war started on 28 July 1914."}
+{"key": "k67aeabd", "correct": true, "extracted_answer": "carbon dioxide (CO2)", "reason": "It says plants absorb carbon dioxide."}
+{"key": "k8940850", "correct": true, "extracted_answer": "625", "reason": "It says 250 + 375 = 625."}
+{"key": "k6cf5c2b", "correct": true, "extracted_answer": "150 miles", "reason": "It says 150 miles."}
+{"key": "k349f845", "correct": false, "extracted_answer": "none", "reason": "It says 'depends on how you count' and never commits to Neil Armstrong as the answer."}
+{"key": "kf752f69", "correct": false, "extracted_answer": "none", "reason": "It gives no year and mentions only unrelated dates."}
+{"key": "kbed40a9", "correct": true, "extracted_answer": "52", "reason": "It says 52 cards."}
+{"key": "k84b2f94", "correct": true, "extracted_answer": "168", "reason": "It computes 24 x 7 = 168."}
+{"key": "kf0a8bf7", "correct": true, "extracted_answer": "Mount Everest", "reason": "It names Mount Everest."}
+{"key": "k38185cc", "correct": false, "extracted_answer": "Born there", "reason": "It never says Shanghai."}
+{"key": "kd4370e3", "correct": false, "extracted_answer": "none", "reason": "It never says February and rambles about the sun."}
+{"key": "k42ca110", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It says Vincent van Gogh painted it."}
+{"key": "k4645f5e", "correct": false, "extracted_answer": "Vincenzo Bellini", "reason": "It attributes the work to Bellini, not Vivaldi."}
+{"key": "kfcb1f29", "correct": false, "extracted_answer": "in Mexico's", "reason": "It talks about hyphens and never says Egypt."}
+{"key": "k544d828", "correct": false, "extracted_answer": "The penny", "reason": "It says the penny, not the dime."}
+{"key": "k87f2db6", "correct": false, "extracted_answer": "to have experienced something before", "reason": "It never says 'already seen' and invents a Latin origin."}
+{"key": "k44cd14d", "correct": true, "extracted_answer": "nine", "reason": "It says one third of 27 is nine."}
+{"key": "kdf03f14", "correct": true, "extracted_answer": "Basil", "reason": "It answers 'Basil'."}
+{"key": "k2f57459", "correct": true, "extracted_answer": "Everest", "reason": "It names Everest."}
+{"key": "k660d30e", "correct": true, "extracted_answer": "In Egypt", "reason": "It says 'In Egypt.'"}
+{"key": "k30550dd", "correct": false, "extracted_answer": "Goed / Gone", "reason": "It says 'Goed' or 'Gone', not 'went'."}
+{"key": "kd2dc2d0", "correct": true, "extracted_answer": "Vincent van Gogh", "reason": "It says it was painted by Vincent van Gogh."}
+{"key": "k063dffe", "correct": false, "extracted_answer": "The", "reason": "It answers 'The' and never names Everest."}
+{"key": "k4ea1d80", "correct": true, "extracted_answer": "Ottawa", "reason": "It says the capital is Ottawa."}
+{"key": "k184c37b", "correct": true, "extracted_answer": "South America", "reason": "It says Argentina lies on the South American continent."}
+{"key": "k0ec6bf8", "correct": false, "extracted_answer": "Hermann Hesse", "reason": "It names Hermann Hesse, not Amundsen."}
+{"key": "k7374474", "correct": true, "extracted_answer": "The Milky Way", "reason": "It says the Sun belongs to the Milky Way."}
+{"key": "k3fe5427", "correct": true, "extracted_answer": "the nucleus", "reason": "It says the center is called the nucleus."}
+{"key": "ka5c6e0a", "correct": false, "extracted_answer": "Sahara Desert", "reason": "It says there is no single largest and offers the Sahara, not Antarctica."}
+{"key": "kfbbe4e1", "correct": true, "extracted_answer": "$7.50", "reason": "It says 3 x $2.50 = $7.50."}
+{"key": "k7d80e7b", "correct": true, "extracted_answer": "32 °F", "reason": "It says water freezes at 32 °F."}
+{"key": "k0466e25", "correct": true, "extracted_answer": "England", "reason": "It says the Industrial Revolution began in England."}
+{"key": "kb8856e0", "correct": true, "extracted_answer": "Qin Shi Huang", "reason": "It answers Qin Shi Huang."}
+{"key": "k0dcff21", "correct": false, "extracted_answer": "elephants", "reason": "It says the largest animals are elephants and mentions blue whales only as an aside."}
+{"key": "k187c991", "correct": true, "extracted_answer": "32°F", "reason": "It says water freezes at 32°F."}
+{"key": "kf4fd736", "correct": true, "extracted_answer": "Charles Dickens", "reason": "It names Charles Dickens."}
+{"key": "kc478a19", "correct": false, "extracted_answer": "994", "reason": "It answers 994, not 635."}
+{"key": "k8b68286", "correct": false, "extracted_answer": "penny", "reason": "It says the penny and never names the dime as the 10-cent coin."}
+{"key": "k79171e3", "correct": true, "extracted_answer": "13", "reason": "It answers 13."}
+{"key": "kb8d68f9", "correct": true, "extracted_answer": "1989", "reason": "It says the wall fell on November 9, 1989."}
+{"key": "k7a60eb7", "correct": true, "extracted_answer": "Mahatma Gandhi", "reason": "It answers Mahatma Gandhi."}

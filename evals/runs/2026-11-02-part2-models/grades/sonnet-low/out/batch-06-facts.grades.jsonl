@@ -1,0 +1,59 @@
+{"key": "k8ac8c31", "correct": true, "extracted_answer": "six", "reason": "It opens with 'One million has six zeros'."}
+{"key": "ked75001", "correct": true, "extracted_answer": "mice", "reason": "It says to use \"mice\" for the plural."}
+{"key": "kc227c0f", "correct": false, "extracted_answer": "Two", "reason": "It begins 'Two.' rather than 7."}
+{"key": "kb38186d", "correct": false, "extracted_answer": "the white (albumen)", "reason": "It names the white, not the yolk."}
+{"key": "kd9c3946", "correct": true, "extracted_answer": "having seen something before", "reason": "It gives 'seen something before', an accepted form."}
+{"key": "k5c1d3f5", "correct": true, "extracted_answer": "Winston Churchill", "reason": "It states 'Winston Churchill led the UK during the war'."}
+{"key": "kc7c44e7", "correct": true, "extracted_answer": "1492", "reason": "It places the voyage and landing in 1492."}
+{"key": "k436fa1d", "correct": false, "extracted_answer": "Visible", "reason": "'Visible' does not correct the statement to false."}
+{"key": "k68500b3", "correct": false, "extracted_answer": "Giovan Battista Stämmeli", "reason": "Wrong composer, not Vivaldi."}
+{"key": "k9240b30", "correct": true, "extracted_answer": "hydrogen", "reason": "It says 'it is called hydrogen'."}
+{"key": "kc56a879", "correct": true, "extracted_answer": "Au", "reason": "'Au.'"}
+{"key": "kea414f4", "correct": true, "extracted_answer": "Gabriel García Márquez", "reason": "It names García Márquez."}
+{"key": "keab4d35", "correct": true, "extracted_answer": "56", "reason": "'$56$'."}
+{"key": "k16e8493", "correct": true, "extracted_answer": "Oak", "reason": "'Oak trees are the most common'."}
+{"key": "kbd5ed68", "correct": true, "extracted_answer": "Au", "reason": "'The chemical symbol for gold is Au'."}
+{"key": "kca06870", "correct": true, "extracted_answer": "Ankara", "reason": "'The Turkish capital is Ankara'."}
+{"key": "keec95cd", "correct": true, "extracted_answer": "yolk", "reason": "'The yolk is the yellow center'."}
+{"key": "k759a1ca", "correct": true, "extracted_answer": "honey", "reason": "It says 'the most common is honey' for what bees store."}
+{"key": "k0dfc4e2", "correct": true, "extracted_answer": "Chinese", "reason": "'Chinese.'"}
+{"key": "kf34e919", "correct": true, "extracted_answer": "The Strait of Gibraltar", "reason": "It opens with 'The Strait of Gibraltar'."}
+{"key": "k1dc5b7f", "correct": false, "extracted_answer": "none", "reason": "It never says blue whales; it rambles about hyphens."}
+{"key": "k96a63ec", "correct": false, "extracted_answer": "Old French", "reason": "It says Old French, not German."}
+{"key": "k6264cf3", "correct": true, "extracted_answer": "Lake Superior", "reason": "It names Lake Superior."}
+{"key": "k740bfa9", "correct": true, "extracted_answer": "15", "reason": "'3 x 5 = 15 eggs'."}
+{"key": "k400da41", "correct": true, "extracted_answer": "chickpeas", "reason": "It lists chickpeas first as the main ingredient."}
+{"key": "k6e4d390", "correct": true, "extracted_answer": "No", "reason": "'No' is an accepted form."}
+{"key": "k2a95a9d", "correct": true, "extracted_answer": "6-sided", "reason": "'hexa- means six... 6-sided polygon'."}
+{"key": "k8d4ab87", "correct": false, "extracted_answer": "A wall from space", "reason": "It does not say false or not visible."}
+{"key": "k065183e", "correct": true, "extracted_answer": "basil", "reason": "'The basil, often called the queen of herbs'."}
+{"key": "kc576ce9", "correct": true, "extracted_answer": "the aorta / arteries", "reason": "It names the aorta, an artery, carrying blood to organs."}
+{"key": "k18cec3b", "correct": true, "extracted_answer": "16", "reason": "'16 ounces in one pound'."}
+{"key": "k3e65dc5", "correct": true, "extracted_answer": "went", "reason": "It says \"went\"."}
+{"key": "k1f79158", "correct": true, "extracted_answer": "Tokyo", "reason": "'Tokyo.'"}
+{"key": "k979fc15", "correct": true, "extracted_answer": "1024", "reason": "'1024'."}
+{"key": "k0475794", "correct": false, "extracted_answer": "In", "reason": "'In.' does not give Egypt."}
+{"key": "k6045d9b", "correct": true, "extracted_answer": "The Mayflower", "reason": "'The Mayflower.'"}
+{"key": "k65a0723", "correct": true, "extracted_answer": "chickpeas", "reason": "'The primary ingredients are chickpeas'."}
+{"key": "kcde9060", "correct": false, "extracted_answer": "none", "reason": "It never says green and talks about white, red and brown."}
+{"key": "kaa1c5a4", "correct": false, "extracted_answer": "George Washington", "reason": "It names Washington, not John Adams."}
+{"key": "k82c2317", "correct": false, "extracted_answer": "Theodore Roosevelt", "reason": "Wrong president."}
+{"key": "k0837f00", "correct": true, "extracted_answer": "Hydrogen", "reason": "It opens with 'Hydrogen'."}
+{"key": "k117de27", "correct": true, "extracted_answer": "Hydrogen", "reason": "'Hydrogen (H)'."}
+{"key": "k4f08822", "correct": false, "extracted_answer": "The Apollo 11 mission", "reason": "It names a mission, not Neil Armstrong."}
+{"key": "k9a7317d", "correct": false, "extracted_answer": "The Volga River", "reason": "It commits to the Volga, with the Urals only an aside."}
+{"key": "k7f72c8c", "correct": false, "extracted_answer": "Robert Falcon Scott", "reason": "It names Scott, not Amundsen."}
+{"key": "k4b92dd3", "correct": true, "extracted_answer": "Johannes Gutenberg", "reason": "It opens with 'Johannes Gutenberg'."}
+{"key": "k85e9079", "correct": false, "extracted_answer": "A bright yellow", "reason": "It says yellow, not green."}
+{"key": "kde5904b", "correct": true, "extracted_answer": "Lake Superior", "reason": "'Lake Superior is the largest by... surface area'."}
+{"key": "k35c1bd4", "correct": false, "extracted_answer": "July 2, 1945", "reason": "It gives a July 2, 1945 date and a muddled timeline, not clearly 1945 as the end year."}
+{"key": "k309b71b", "correct": true, "extracted_answer": "Spanish", "reason": "It calls it 'a Spanish novella' by Cervantes."}
+{"key": "kbdca12d", "correct": true, "extracted_answer": "Ankara", "reason": "'Ankara'."}
+{"key": "k363cd86", "correct": false, "extracted_answer": "Ice pellets", "reason": "'Ice pellets' is not hail."}
+{"key": "k0961455", "correct": false, "extracted_answer": "France", "reason": "It says France."}
+{"key": "kd7706e7", "correct": false, "extracted_answer": "Ice pellets", "reason": "Main answer 'Ice pellets', not hail."}
+{"key": "kf324bdf", "correct": true, "extracted_answer": "Venus", "reason": "'Venus is hotter than any other known world'."}
+{"key": "kc672ecf", "correct": true, "extracted_answer": "5/8", "reason": "'the answer is 5 / 8'."}
+{"key": "kb527696", "correct": true, "extracted_answer": "150 miles", "reason": "'the answer is 150 miles'."}
+{"key": "ke3b2ec0", "correct": false, "extracted_answer": "none", "reason": "It says no single place won and lists several countries without committing."}
+{"key": "k0d3fca2", "correct": true, "extracted_answer": "The Nutcracker", "reason": "'The Nutcracker'."}
